@@ -4,7 +4,7 @@ My name is <b> Nazmul Moon </b>
 
 I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce business development. With over 5 years of experience in Shopify store design and development, optimization, and growth strategies, I have successfully completed over 250+ projects for 170+ satisfied clients worldwide. My expertise areas in building high-converting, scalable, and fully optimized Shopify E-commerce web stores that drive sales and enhance brand credibility.
 
-![Profile views](https://komarev.com/ghpvc/?username=nhmoonofficial&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=nazmul9006&color=red)
 
 **Skills:** LIQUID / WEB API / JSON /  NEXT JS / REACT JS / JS / CSS / HTML 
 
@@ -53,7 +53,7 @@ I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce busi
 
 <p align="center">
   <a href="https://github.com/nhmoonofficial">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhmoonofficial&theme=radical" alt="Nazmul's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul9006&theme=radical" alt="Nazmul's GitHub Contribution"/>
   </a>
 </p>
 
